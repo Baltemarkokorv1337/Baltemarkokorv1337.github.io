@@ -3,25 +3,26 @@
   margin-right:auto;
   width:1200px;
 }
+body {background-color:#B0E0E6;}
 header{
-  padding;
-  text-align:center;
-  width: 1200px;
-  height:70px;
-  background-color:#7F2221;
-  border-radius: 10px;
-  color:pink;
-  text-shadow: 2px 2px #ff0000;
-  font-size:44px;
-  font-family: 'Slabo 27px', serif;
-  text-decoration: underline;
-
+    padding;
+    text-align:center;
+    width: 1200px;
+    height:150px;
+    background-color:	#F5FFFA;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    color:	#48D1CC;
+    font-size:44px;
+    font-family: 'Slabo 27px', serif;
+    text-decoration: underline;
 
 }
 nav{
+  overflow: hidden;
   width:1200px;
   height:50px;
-  background-color:#7F3838;
+  background-color:	#F5FFFA;
   color:white;
   text-align:center;
 }
@@ -32,12 +33,12 @@ main{
   text-align:center;
   width:1000px;
   height:500px;
-  background-color: #FF8F8E;
+  background-color: 	#F5FFFA;
 }
 aside{
   width:200px;
   height:500px;
-  background-color:#7F3838;
+  background-color:	#F5FFFA;
   font-size:20px;
 }
 footer{
