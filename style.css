@@ -4,7 +4,7 @@
   width:100%;
 }
 
-body {  background-image: linear-gradient(#bf1b01, #911501);
+body {  background-image: linear-gradient(RED, ORANGE);
 }
 header{
     line-height: 120%;
